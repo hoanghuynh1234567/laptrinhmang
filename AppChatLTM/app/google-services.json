@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "66622864075",
+    "firebase_url": "https://appchatltm.firebaseio.com",
+    "project_id": "appchatltm",
+    "storage_bucket": "appchatltm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66622864075:android:ff02eac8c47cb271",
+        "android_client_info": {
+          "package_name": "com.example.LTM.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66622864075-1f5mgq9vup6m9nfaslschnlqe4jrbruh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-k2E3015ECFkewT0HCJ-uS4R4-if36y4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
